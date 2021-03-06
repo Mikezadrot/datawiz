@@ -55,6 +55,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     "article",
     "ckeditor",
+    'django_heroku',
     'ckeditor_uploader',
     'rest_framework',
     'django_extensions',
